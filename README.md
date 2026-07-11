@@ -4,7 +4,9 @@ Live Web App: [ccadmin.99practice.com](https://ccadmin.99practice.com)
 
 
 Use These Credentials to get Access to the portal : 
+
   Email : campus.admin789@gmail.com
+  
   Password : securepassword123
 
 Welcome to the admin repository for **Campus Connect**, a comprehensive centralized management dashboard built to oversee campus notices and events. This project is submitted as part of the DevSoc society selection task and is designed to provide administrators with a seamless, cross-platform interface for content moderation and creation.
